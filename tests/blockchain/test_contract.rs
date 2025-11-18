@@ -1,4 +1,4 @@
-use solana_program_test::*;  MELOEN
+use solana_program_test::*;  MELOAN
 use solana_sdk::{ 
     account::Account,
     instruction::{AccountMeta, Instruction},
