@@ -1,43 +1,40 @@
-# MISCAN
+# FINDXR
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-MISCAN-blue?logo=google-chrome)](https://miscan.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-MISCAN-blue?logo=twitter)](https://x.com/MISCANLAB)
+[![Website](https://img.shields.io/badge/Website-FINDXR-blue?logo=google-chrome)](https://findxr.run/)
+[![Twitter](https://img.shields.io/badge/Twitter-FINDXR-blue?logo=twitter)](https://x.com/FINDXRLABS)
 
 
+## FINDXR INTRODUCTION
 
-```
+In the on-chain world, entering a new market is equivalent to deploying capital into a system whose parameters are constantly shifting.
+Price acts as the current, sentiment as the weather, and liquidity as the tide—
+and each decision can strengthen your position or expose you to immediate downside risk.
 
-2AyuuaeM4Hm2nQDCZAxxuqt5fpM63a1Hwmf5rpZFpump
- .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .-----------------.
-| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
-| | ____    ____ | || |     _____    | || |    _______   | || |     ______   | || |      __      | || | ____  _____  | |
-| ||_   \  /   _|| || |    |_   _|   | || |   /  ___  |  | || |   .' ___  |  | || |     /  \     | || ||_   \|_   _| | |
-| |  |   \/   |  | || |      | |     | || |  |  (__ \_|  | || |  / .'   \_|  | || |    / /\ \    | || |  |   \ | |   | |
-| |  | |\  /| |  | || |      | |     | || |   '.___`-.   | || |  | |         | || |   / ____ \   | || |  | |\ \| |   | |
-| | _| |_\/_| |_ | || |     _| |_    | || |  |`\____) |  | || |  \ `.___.'\  | || | _/ /    \ \_ | || | _| |_\   |_  | |
-| ||_____||_____|| || |    |_____|   | || |  |_______.'  | || |   `._____.'  | || ||____|  |____|| || ||_____|\____| | |
-| |              | || |              | || |              | || |              | || |              | || |              | |
-| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
-```
+FINDXR was created to solve a simple but fundamental problem:
+before your capital enters the mainnet, there is no reliable way to test how your strategy behaves under real market conditions.
 
-In the fast-moving Solana ecosystem, most wallets behave like static storage—holding tokens, reacting to volatility, and hoping for upside. But growth should never rely on chance. Every SPL asset you own carries structure, correlation, momentum, and hidden synergy waiting to be activated.
-MISCAN unlocks this dormant potential.
+To address this, FINDXR builds a real-time, on-chain experimental environment that mirrors the live state of the mainnet.
+It does not predict outcomes or offer trading signals.
+Instead, it replicates mainnet data—pools, transactions, liquidity flows, and volatility changes—into a synchronized “shadow sea,”
+allowing your strategies to complete a full trial run without committing funds.
 
-MISCAN is an intelligent synergy engine built to reorganize your SPL wallet into a dynamic, self-optimizing system. It continuously analyzes token interactions, liquidity conditions, volatility patterns, and your historical trading behavior to construct a real-time Synergy Matrix—a model that understands how your assets strengthen or weaken each other.
+Inside this environment, every new market, every on-chain event, and every liquidity shift becomes part of the tested conditions.
+FINDXR converts your strategy into an executable “route,” then performs real-time path simulations, risk drift measurements, and parallel trial runs across multiple market scenarios.
+This provides visibility into:
+– which strategies operate efficiently under current liquidity structure,
+– which ones consistently encounter high-risk conditions,
+– and which routes statistically converge toward loss or failure.
 
-Instead of chasing charts or relying on emotion, MISCAN gives you a unified, strategic view of your wallet: which tokens deserve more allocation, which combinations reduce risk, which assets are dragging your performance, and where the next growth window is forming. Every action becomes deliberate. Every choice becomes optimized.
+FINDXR is not designed to replace decision-making—it functions as an analytical lighthouse.
+Rather than telling you what to buy, it highlights where your strategy is structurally feasible, where it becomes fragile, and where experimentation is necessary.
+Even when the mainnet becomes unpredictable, FINDXR gives you an advance preview of how your approach behaves across all possible trajectories—
+not forecasting, but verifying;
+not guessing, but measuring.
 
-You are no longer managing isolated tokens;
-you are managing an evolving micro-portfolio tuned for continuous net-value growth.
-
-MISCAN does not take custody, does not execute trades for you, and does not impose strategies. It simply reveals the optimal path—using synergy algorithms, structural modeling, and behavioral mapping—to let your wallet grow smarter, stronger, and more resilient over time.
-
-This is not a trading tool.
-This is your SPL synergy intelligence system.
-A new way to let your wallet actively work for you.
+By transforming uncontrolled trial-and-error into controlled, data-driven validation,
+FINDXR enables users to enter on-chain markets with clarity, discipline, and tested logic.
